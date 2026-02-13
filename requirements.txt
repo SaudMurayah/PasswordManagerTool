@@ -1,0 +1,9 @@
+cryptography>=41.0.0
+
+# GUI Dependencies
+# Note: tkinter is required for the GUI interface
+# - Windows: tkinter comes pre-installed with Python
+# - macOS: Install with: brew install python-tk
+# - Linux: Install with: sudo apt-get install python3-tk (Ubuntu/Debian)
+#                   or: sudo yum install python3-tkinter (Fedora/RHEL)
+
