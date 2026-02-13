@@ -1,4 +1,3 @@
-# PasswordManagerTool
 # Password Manager Tool
 Password Manager Tool is a Python-based application designed to help you generate, encrypt, and securely manage passwords. The tool features AES encryption, an advanced strength analyzer, and secure file storage. It works on macOS, Windows, and Linux, offering both a user-friendly GUI and an interactive CLI mode for flexible password management.
 
